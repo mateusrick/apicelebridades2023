@@ -1,347 +1,274 @@
 [
-			{
-						"grupo": "CANTORES",
-						"cor": "#2C5C6B",
-						"informacoes": [
-						{   
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						},
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						},
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						},
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						}
-					]
-				},
-				{
-					
-					"grupo": "ATORES",
-					"cor": "#7DDFD2",
-					"informacoes": [
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						},
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						},
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						},
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						}
-					]
-				},
-				{
-					
-					"grupo": "ATLETAS",
-					"cor": "#ECB3CB",
-				  "informacoes": [
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						},
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						},
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						},
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						}
-					]
-				},
-				{
-					
-					"grupo": "MODELOS",
-					"cor": "#F22688",
-					"informacoes": [
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						},
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						},
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						},
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						}
-					]
-				},
-				{
-					
-					"grupo": "INFLUENCERS",
-					"cor": "#00968D",
-					"informacoes": [
-						
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						},
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						},
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						},
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						}
-					]
-				},
-				{
-					
-					"grupo": "ATORESMIRINS",
-					"cor": "#78D64B",
-					"informacoes": [
-						
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						},
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						},
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						},
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						}
-					]
-				},
-				{
-					
-					"grupo": "OUTRO",
-					"cor": "#FFA02F",
-					"informacoes": [
-						
-						{
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						},
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-						},
-						
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						},
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						}
-					]
-				},
-				{
-					
-					"grupo": "OUTRO2",
-					"cor": "#FE5211",
-					"informacoes": [
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						},
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						},
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						},
-						{
-							
-							"nome": "Beyonce",
-							"idade": "42",
-			        "nascimento": "4/09/1981",
-			        "premios": ,
-							"imagem": "imgbeyonce"
-							
-						}
-					]
-				}
-			]
+   {
+      "grupo":"CANTORES",
+      "cor":"#2C5C6B",
+      "informacoes":[
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         },
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         },
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         },
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         }
+      ]
+   },
+   {
+      "grupo":"ATORES",
+      "cor":"#7DDFD2",
+      "informacoes":[
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         },
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         },
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         },
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         }
+      ]
+   },
+   {
+      "grupo":"ATLETAS",
+      "cor":"#ECB3CB",
+      "informacoes":[
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         },
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         },
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         },
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         }
+      ]
+   },
+   {
+      "grupo":"MODELOS",
+      "cor":"#F22688",
+      "informacoes":[
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         },
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         },
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         },
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         }
+      ]
+   },
+   {
+      "grupo":"INFLUENCERS",
+      "cor":"#00968D",
+      "informacoes":[
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         },
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         },
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         },
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         }
+      ]
+   },
+   {
+      "grupo":"ATORESMIRINS",
+      "cor":"#78D64B",
+      "informacoes":[
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         },
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         },
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         },
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         }
+      ]
+   },
+   {
+      "grupo":"OUTRO",
+      "cor":"#FFA02F",
+      "informacoes":[
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         },
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         },
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         },
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         }
+      ]
+   },
+   {
+      "grupo":"OUTRO2",
+      "cor":"#FE5211",
+      "informacoes":[
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         },
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         },
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         },
+         {
+            "nome":"Beyonce",
+            "idade":"42",
+            "nascimento":"4/09/1981",
+            "premios":,
+            "imagem":"imgbeyonce"
+         }
+      ]
+   }
+]
