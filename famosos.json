@@ -2,7 +2,7 @@
    {
       "grupo":"CANTORES",
       "cor":"#2C5C6B",
-      "informacoes":[
+      "famosos":[
          {
             "nome":"Beyonce",
             "idade":"42",
@@ -36,7 +36,7 @@
    {
       "grupo":"ATORES",
       "cor":"#7DDFD2",
-      "informacoes":[
+      "famosos":[
          {
             "nome":"Beyonce",
             "idade":"42",
@@ -70,7 +70,7 @@
    {
       "grupo":"ATLETAS",
       "cor":"#ECB3CB",
-      "informacoes":[
+      "famosos":[
          {
             "nome":"Beyonce",
             "idade":"42",
@@ -104,7 +104,7 @@
    {
       "grupo":"MODELOS",
       "cor":"#F22688",
-      "informacoes":[
+      "famosos":[
          {
             "nome":"Beyonce",
             "idade":"42",
@@ -138,7 +138,7 @@
    {
       "grupo":"INFLUENCERS",
       "cor":"#00968D",
-      "informacoes":[
+      "famosos":[
          {
             "nome":"Beyonce",
             "idade":"42",
@@ -172,7 +172,7 @@
    {
       "grupo":"ATORESMIRINS",
       "cor":"#78D64B",
-      "informacoes":[
+      "famosos":[
          {
             "nome":"Beyonce",
             "idade":"42",
@@ -206,7 +206,7 @@
    {
       "grupo":"OUTRO",
       "cor":"#FFA02F",
-      "informacoes":[
+      "famosos":[
          {
             "nome":"Beyonce",
             "idade":"42",
@@ -240,7 +240,7 @@
    {
       "grupo":"OUTRO2",
       "cor":"#FE5211",
-      "informacoes":[
+      "famosos":[
          {
             "nome":"Beyonce",
             "idade":"42",
