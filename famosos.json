@@ -1,205 +1,17 @@
-[
-   {
-      "grupo":"CANTORES",
-      "cor":"#2C5C6B",
-      "famosos":[
-         {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
+ Things Cast",
+            "idade":"Varia",
+            "nascimento":"Diversos",
+            "premios": ["Screen Actors Guild Awards- Outstanding Performance by an Ensemble in a Drama Series"
+            ],
+            "imagem":"imga_stranger_things.jpg"
          },
          {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
-         },
-         {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
-         },
-         {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-             "premios": "",
-            "imagem":"imgbeyonce"
-         }
-      ]
-   },
-   {
-      "grupo":"ATORES",
-      "cor":"#7DDFD2",
-      "famosos":[
-         {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-             "premios": "",
-            "imagem":"imgbeyonce"
-         },
-         {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
-         },
-         {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
-         },
-         {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
-         }
-      ]
-   },
-   {
-      "grupo":"ATLETAS",
-      "cor":"#ECB3CB",
-      "famosos":[
-         {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
-         },
-         {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
-         },
-         {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
-         },
-         {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
-         }
-      ]
-   },
-   {
-      "grupo":"MODELOS",
-      "cor":"#F22688",
-      "famosos":[
-         {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
-         },
-         {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
-         },
-         {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
-         },
-         {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
-         }
-      ]
-   },
-   {
-      "grupo":"INFLUENCERS",
-      "cor":"#00968D",
-      "famosos":[
-         {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
-         },
-         {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
-         },
-         {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
-         },
-         {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
-         }
-      ]
-   },
-   {
-      "grupo":"ATORESMIRINS",
-      "cor":"#78D64B",
-      "famosos":[
-         {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
-         },
-         {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
-         },
-         {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
-         },
-         {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
+            "nome":"Cloe Grace Moretz",
+            "idade":"25",
+            "nascimento":"10/02/1997",
+           "premios": ["Young Hollywood Award - Breakthrough Actress"
+            ],
+            "imagem":"img_cloe.jpg"
          }
       ]
    },
@@ -208,32 +20,36 @@
       "cor":"#FFA02F",
       "famosos":[
          {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
+            "nome":"PewDiePie",
+            "idade":"32",
+            "nascimento":"24/10/1989",
+          "premios": ["Youtube Creator of the Year" "Diamond Play Button Award"
+            ],
+            "imagem":"img_piwdiepie"
          },
          {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
+            "nome":"Ninja",
+            "idade":"30",
+            "nascimento":"05/06/1991",
+            "premios": ["Esports Industry Awards - Streamer of the Year"
+            ],
+            "imagem":"img_ninja.jpg"
          },
          {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
+            "nome":"Liza Koshy",
+            "idade":"26",
+            "nascimento":"31/03/1996",
+           "premios": ["Stramy Awards - Creator of the Year"
+            ],
+            "imagem":"img_liza.jpg"
          },
          {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
+            "nome":"MKBHD (Marques Brownlee)",
+            "idade":"28",
+            "nascimento":"03/12/1993",
+          "premios": ["Short Awards - Tech and Innovation"
+            ],
+            "imagem":"img_mkbhd.jpg"
          }
       ]
    },
@@ -242,32 +58,36 @@
       "cor":"#FE5211",
       "famosos":[
          {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
+            "nome":"Ninja",
+            "idade":"30",
+            "nascimento":"05/06/1991",
+           "premios": ["Esports INdustry Awards - Streammer of the Year"
+            ],
+            "imagem":"img_ninja.jpg"
          },
          {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
+            "nome":"Pokimane",
+            "idade":"26",
+            "nascimento":"14/05/1996",
+          "premios": ["Streamy Awards - Gaming Creator of the Year"
+            ],
+            "imagem":"img_pokimane.jpg"
          },
          {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
+            "nome":"xQcOW (Félix Lengyel)",
+            "idade":"26",
+            "nascimento":"12/11/1995",
+         "premios": ["The Game Awards - Content Creator Of the Year"
+            ],
+            "imagem":"img_zqc.jpg"
          },
          {
-            "nome":"Beyonce",
-            "idade":"42",
-            "nascimento":"4/09/1981",
-            "premios": "",
-            "imagem":"imgbeyonce"
+            "nome":"Valkyrae",
+            "idade":"29",
+            "nascimento":"08/01/1992",
+            "premios": ["The Game Awards - Content Creator of the Year"
+            ],
+            "imagem":"img_valkrae.jpg"
          }
       ]
    }
