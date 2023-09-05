@@ -46,7 +46,7 @@
 }
 
 
-ATORES
+
 
 {
    "grupo": "ATORES",
@@ -96,7 +96,7 @@ ATORES
 }
 
 
-ATLETAS
+
 
 {
    "grupo": "ATLETAS",
@@ -142,7 +142,7 @@ ATLETAS
 }
 
 
-MODELOS
+
 
 {
    "grupo": "MODELOS",
@@ -187,7 +187,7 @@ MODELOS
    ]
 }
 
-INFLUENCERS
+
 
 {
    "grupo": "INFLUENCERS",
@@ -230,7 +230,7 @@ INFLUENCERS
    ]
 }
 
-ATORESMIRINS
+
 
 {
    "grupo": "ATORESMIRINS",
@@ -273,7 +273,7 @@ ATORESMIRINS
    ]
 }
 
-YOUTUBERS
+
 
 {
    "grupo": "YOUTUBERS",
@@ -319,7 +319,7 @@ YOUTUBERS
    ]
 }
 
-STREAMERS
+
 
 {
    "grupo": "STREAMERS",
