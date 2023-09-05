@@ -21,7 +21,7 @@
                "Grammy Award for Record of the Year",
                "Brit Award for British Album of the Year"
             ],
-            "imagem": "img_adele.jpg"
+            "imagem": "img_adele"
          },
          {
             "nome": "Ed Sheeran",
@@ -31,7 +31,7 @@
                "Grammy Award for Song of the Year",
                "Brit Award for British Male Solo Artist"
             ],
-            "imagem": "img_ed.jpg"
+            "imagem": "img_ed"
          },
          {
             "nome": "Rihanna",
@@ -41,7 +41,7 @@
                "Grammy Award for Best Rap/Sung Collaboration",
                "MTV Video Music Award for Video of the Year"
             ],
-            "imagem": "img_rihanna.jpg"
+            "imagem": "img_rihanna"
          }
       ]
    },
