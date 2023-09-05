@@ -57,7 +57,7 @@
                "Academy Award for Best Actor",
                "Golden Globe Award for Best Actor"
             ],
-            "imagem": "img_leo.jpg"
+            "imagem": "img_leo"
          },
          {
             "nome": "Meryl Streep",
@@ -67,7 +67,7 @@
                "Academy Award for Best Actress",
                "Golden Globe Award for Best Actress"
             ],
-            "imagem": "img_meryl.jpg"
+            "imagem": "img_meryl"
          },
          {
             "nome": "Tom Hanks",
@@ -77,7 +77,7 @@
                "Academy Award for Best Actor",
                "Golden Globe Award for Best Actor"
             ],
-            "imagem": "img_tom.jpg"
+            "imagem": "img_tom"
          },
          {
             "nome": "Jennifer Lawrence",
@@ -87,7 +87,7 @@
                "Academy Award for Best Actress",
                "Golden Globe Award for Best Actress"
             ],
-            "imagem": "img_jennifer.jpg"
+            "imagem": "img_jennifer"
          }
       ]
    },
