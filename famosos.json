@@ -102,7 +102,7 @@
             "premios": [
                "Olympic gold medals in 100m and 200m sprint"
             ],
-            "imagem": "img_usain.jpg"
+            "imagem": "img_usain"
          },
          {
             "nome": "Serena Williams",
@@ -111,7 +111,7 @@
             "premios": [
                "Multiple Grand Slam singles titles"
             ],
-            "imagem": "img_serena.jpg"
+            "imagem": "img_serena"
          },
          {
             "nome": "Michael Phelps",
@@ -120,7 +120,7 @@
             "premios": [
                "23 Olympic gold medals in swimming"
             ],
-            "imagem": "img_phelps.jpg"
+            "imagem": "img_phelps"
          },
          {
             "nome": "Simone Biles",
@@ -129,7 +129,7 @@
             "premios": [
                "Multiple Olympic gold medals in gymnastics"
             ],
-            "imagem": "img_simone.jpg"
+            "imagem": "img_simone"
          }
       ]
    },
@@ -144,7 +144,7 @@
             "premios": [
                "Forbes' Highest-Paid Models List"
             ],
-            "imagem": "img_gisele.jpg"
+            "imagem": "img_gisele"
          },
          {
             "nome": "Adriana Lima",
@@ -153,7 +153,7 @@
             "premios": [
                "Victoria's Secret Angel"
             ],
-            "imagem": "img_adriana.jpg"
+            "imagem": "img_adriana"
          },
          {
             "nome": "Cara Delevingne",
@@ -162,7 +162,7 @@
             "premios": [
                "Model of the Year at the British Fashion Awards"
             ],
-            "imagem": "img_cara.jpg"
+            "imagem": "img_cara"
          },
          {
             "nome": "Kendall Jenner",
@@ -171,7 +171,7 @@
             "premios": [
                "Forbes' Highest-Paid Models List"
             ],
-            "imagem": "img_kendall.jpg"
+            "imagem": "img_kendall"
          }
       ]
    },
@@ -186,7 +186,7 @@
             "premios": [
                "Influencer of the Year Award"
             ],
-            "imagem": "img_kim.jpg"
+            "imagem": "img_kim"
          },
          {
             "nome": "PewDiePie",
@@ -195,14 +195,14 @@
             "premios": [
                "YouTube Creator of the Year"
             ],
-            "imagem": "img_pewdiepie.jpg"
+            "imagem": "img_pewdiepie"
          },
          {
             "nome": "Huda Kattan",
             "idade": "38",
             "nascimento": "02/10/1983",
             "premios": [],
-            "imagem": "img_huda.jpg"
+            "imagem": "img_huda"
          },
          {
             "nome": "Gary Vaynerchuk",
@@ -211,7 +211,7 @@
             "premios": [
                "Social Media Guru Award"
             ],
-            "imagem": "img_gary.jpg"
+            "imagem": "img_gary"
          }
       ]
    },
@@ -226,14 +226,14 @@
             "premios": [
                "MTV Movie & TV Awards - Best Actor in a Show"
             ],
-            "imagem": "img_millie.jpg"
+            "imagem": "img_millie"
          },
          {
             "nome": "Finn Wolfhard",
             "idade": "19",
             "nascimento": "23/12/2002",
             "premios": [],
-            "imagem": "img_finn.jpg"
+            "imagem": "img_finn"
          },
          {
             "nome": "Stranger Things Cast",
@@ -242,7 +242,7 @@
             "premios": [
                "Screen Actors Guild Awards - Outstanding Performance by an Ensemble in a Drama Series"
             ],
-            "imagem": "img_stranger_things.jpg"
+            "imagem": "img_stranger_things"
          },
          {
             "nome": "Chloe Grace Moretz",
@@ -251,7 +251,7 @@
             "premios": [
                "Young Hollywood Award - Breakthrough Actress"
             ],
-            "imagem": "img_chloe.jpg"
+            "imagem": "img_chloe"
          }
       ]
    },
