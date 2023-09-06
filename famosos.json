@@ -1,7 +1,7 @@
 [
    {
       "grupo": "CANTORES",
-      "cor": "#2C5C6B",
+      "cor": "#31a252",
       "famosos": [
          {
             "nome": "Beyonce",
@@ -47,7 +47,7 @@
    },
    {
       "grupo": "ATORES",
-      "cor": "#7DDFD2",
+      "cor": "#6b456c",
       "famosos": [
          {
             "nome": "Leonardo DiCaprio",
@@ -93,7 +93,7 @@
    },
    {
       "grupo": "ATLETAS",
-      "cor": "#ECB3CB",
+      "cor": "#14c3a2",
       "famosos": [
          {
             "nome": "Usain Bolt",
@@ -135,7 +135,7 @@
    },
    {
       "grupo": "MODELOS",
-      "cor": "#F22688",
+      "cor": "#ebe7a7",
       "famosos": [
          {
             "nome": "Gisele Bündchen",
@@ -177,7 +177,7 @@
    },
    {
       "grupo": "INFLUENCERS",
-      "cor": "#00968D",
+      "cor": "#6e9a81",
       "famosos": [
          {
             "nome": "Kim Kardashian",
@@ -217,7 +217,7 @@
    },
    {
       "grupo": "ATORESMIRINS",
-      "cor": "#78D64B",
+      "cor": "#fff9de",
       "famosos": [
          {
             "nome": "Millie Bobby Brown",
@@ -257,7 +257,7 @@
    },
    {
       "grupo": "YOUTUBERS",
-      "cor": "#FFA02F",
+      "cor": "#fb9c5a",
       "famosos": [
          {
             "nome": "PewDiePie",
@@ -300,7 +300,7 @@
    },
    {
       "grupo": "STREAMERS",
-      "cor": "#FE5211",
+      "cor": "#79ae92",
       "famosos": [
          {
             "nome": "Ninja",
