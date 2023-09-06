@@ -267,7 +267,7 @@
                "YouTube Creator of the Year",
                "Diamond Play Button Award"
             ],
-            "imagem": "img_pewdiepie.jpg"
+            "imagem": "img_pewdiepie"
          },
          {
             "nome": "Ninja",
@@ -276,7 +276,7 @@
             "premios": [
                "Esports Industry Awards - Streamer of the Year"
             ],
-            "imagem": "img_ninja.jpg"
+            "imagem": "img_ninja"
          },
          {
             "nome": "Liza Koshy",
@@ -285,7 +285,7 @@
             "premios": [
                "Streamy Awards - Creator of the Year"
             ],
-            "imagem": "img_liza.jpg"
+            "imagem": "img_liza"
          },
          {
             "nome": "MKBHD (Marques Brownlee)",
@@ -294,7 +294,7 @@
             "premios": [
                "Shorty Awards - Tech and Innovation"
             ],
-            "imagem": "img_mkbhd.jpg"
+            "imagem": "img_mkbhd"
          }
       ]
    },
@@ -309,7 +309,7 @@
             "premios": [
                "Esports Industry Awards - Streamer of the Year"
             ],
-            "imagem": "img_ninja.jpg"
+            "imagem": "img_ninja"
          },
          {
             "nome": "Pokimane",
@@ -318,7 +318,7 @@
             "premios": [
                "Streamy Awards - Gaming Creator of the Year"
             ],
-            "imagem": "img_pokimane.jpg"
+            "imagem": "img_pokimane"
          },
          {
             "nome": "xQcOW (Félix Lengyel)",
@@ -327,7 +327,7 @@
             "premios": [
                "The Game Awards - Content Creator of the Year"
             ],
-            "imagem": "img_xqc.jpg"
+            "imagem": "img_xqc"
          },
          {
             "nome": "Valkyrae",
@@ -336,7 +336,7 @@
             "premios": [
                "The Game Awards - Content Creator of the Year"
             ],
-            "imagem": "img_valkyrae.jpg"
+            "imagem": "img_valkyrae"
          }
       ]
    }
